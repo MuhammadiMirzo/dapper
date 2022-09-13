@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pleW9I1Lo/BZxr7eVs2bCzVrySlImw1adyIjYKb+R60wI2AVqpwu/P7s37e8gk1QIgX6B7wBkfoaf+gSXYsAmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\dapper\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
